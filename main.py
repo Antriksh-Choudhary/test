@@ -3,7 +3,7 @@ from datetime import date, time, datetime
 import datetime
 from random import randint as ri
 
-total_day = 3  # how far back to start commits
+total_day = 2  # how far back to start commits
 commit_freq = 50  # num of commits per day
 
 # set to True if you want the number of commits per day to be random for a more realistic graph
